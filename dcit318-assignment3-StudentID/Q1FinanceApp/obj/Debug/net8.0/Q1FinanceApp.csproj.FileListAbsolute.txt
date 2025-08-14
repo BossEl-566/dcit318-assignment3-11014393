@@ -1,0 +1,15 @@
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\bin\Debug\net8.0\Q1FinanceApp.exe
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\bin\Debug\net8.0\Q1FinanceApp.deps.json
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\bin\Debug\net8.0\Q1FinanceApp.runtimeconfig.json
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\bin\Debug\net8.0\Q1FinanceApp.dll
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\bin\Debug\net8.0\Q1FinanceApp.pdb
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.AssemblyInfoInputs.cache
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.AssemblyInfo.cs
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.sourcelink.json
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.dll
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\refint\Q1FinanceApp.dll
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.pdb
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\Q1FinanceApp.genruntimeconfig.cache
+C:\Users\erica\Downloads\assignment-3\dcit318-assignment3-11014393\dcit318-assignment3-StudentID\Q1FinanceApp\obj\Debug\net8.0\ref\Q1FinanceApp.dll

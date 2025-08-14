@@ -1,0 +1,4 @@
+101, Alice Smith, 84
+102, Bob Johnson, 73
+103, Chris Stone, 59
+104, Dana Lee, 45

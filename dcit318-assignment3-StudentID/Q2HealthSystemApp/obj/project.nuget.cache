@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsMWJ64vuDA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erica\\Downloads\\assignment-3\\dcit318-assignment3-11014393\\dcit318-assignment3-StudentID\\Q2HealthSystemApp\\Q2HealthSystemApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erica\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\erica\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\erica\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\erica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
